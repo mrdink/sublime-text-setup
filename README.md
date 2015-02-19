@@ -104,3 +104,7 @@ Here is my settings as well:
   "word_wrap": true
 }
 ```
+
+### Color Scheme
+
+[Vice](https://github.com/mrdink/sublime-color-schemes)
